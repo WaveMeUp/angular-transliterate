@@ -1,6 +1,6 @@
 /**
  * Created by Viacheslav Osadchiy
- * https://github.com/WaveMeUp/transliteration
+ * https://github.com/WaveMeUp/angular-transliterate
  */
 
 (function(){
