@@ -17,6 +17,9 @@ Then add `transliterate` directive to your text input:
 <input placeholder="name" transliterate />
 ```
 
+# Options
+Change ```ctrl.$options.$$options.debounce = 100``` to `0` if you don't want "update" effect.
+
 # Описание
 **Angular-transliterate** это AngularJS директива для транслитерации данных в текстовом поле с кириллицы на латиницу
 
@@ -35,3 +38,6 @@ var app = angular.module('myApp', ['vo.transliterate'])
 ```
 <input placeholder="name" transliterate />
 ```
+
+# Опции
+Измените ```ctrl.$options.$$options.debounce = 100``` на `0`, если не хотите эффект "обновления".
