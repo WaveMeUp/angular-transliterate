@@ -1,5 +1,5 @@
 # What is it?
-**Angular-transliterate** is the AngularJS directive for transliteration from Latin to Cyryllic
+**Angular-transliterate** is the AngularJS directive for transliteration from Cyryllic to Latin
 
 # Usage
 Make sure to embed it in your HTML document:
